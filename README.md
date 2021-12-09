@@ -6,14 +6,14 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 
 <br>
 
-# Development
+# 개발
 
-## 모바일 앱(Android & iOS)
+### 모바일 앱(Android & iOS)
 
 - `Dart` - 2.13.4
 - `Flutter` - 2.2.3
 
-## 웹페이지
+### 웹페이지
 
 - `Dart` - 2.13.4
 - `Flutter` - 2.2.3
@@ -22,11 +22,13 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 
 # UI
 
-## 홈 화면
+### 홈 화면
 <p float="left">
 <img width="30%" src="https://user-images.githubusercontent.com/72238126/145433240-528b3ef0-84cc-46b6-b138-97e0164364e6.png">
 
-## 로그인 & 가게 등록
+<br>
+
+### 로그인 & 가게 등록
 
 <p float="left">
 <img width="30%" src="https://user-images.githubusercontent.com/72238126/145432896-f98dc431-4a99-48e7-b159-1c4ea8c8e768.png">
@@ -34,7 +36,9 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 <img width="30%" src="https://user-images.githubusercontent.com/72238126/145432959-ce06a9b9-e50f-4411-bc6e-5909598f16f3.png">
 </p>
 
-## 이벤트 등록
+<br>
+
+### 이벤트 등록
 
 <p float="left">
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145433327-8c4eeb7a-dcc9-4d16-9b20-9c274c32c43f.png">
@@ -47,7 +51,9 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145433348-3534f111-15fc-426f-9e85-236853b352bb.png">
 </p>
 
-## 이벤트 확인 및 수정
+<br>
+
+### 이벤트 확인 및 수정
 
 <p float="left">
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145433885-87876458-1972-4e7d-a3cb-4649d524a335.png">
@@ -56,7 +62,9 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145433901-b59be30c-1aef-4c63-879f-17c747f4608f.png">
 </p>
 
-## 마케팅 리포트
+<br>
+
+### 마케팅 리포트
 
 <p float="left">
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145434080-111a00d9-9d27-48d1-8ecc-8eb0aa1fa54e.png">
@@ -65,7 +73,9 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145434190-27797835-2164-4ed4-86c9-4651e5346303.png">
 </p>
 
-## 이벤트 참여
+<br>
+
+### 이벤트 참여
 
 <p float="left">
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145434449-9f423ff7-c45c-4647-b11a-45438ad974ed.png">
@@ -74,14 +84,18 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 <img width="22%" src="https://user-images.githubusercontent.com/72238126/145434576-3e3eb540-1bd8-436f-bf8c-bc6892363d56.png">
 </p>
 
-## 랭킹 & MY
+<br>
+
+### 랭킹 & MY
 
 <p float="left">
 <img width="40%" src="https://user-images.githubusercontent.com/72238126/145434785-452e49f4-e288-460d-8c66-87b3c57fec4e.png">
 <img width="40%" src="https://user-images.githubusercontent.com/72238126/145434865-d6653480-6f46-4cf4-806d-7fa684a188e8.png">
 </p>
 
-## 서비스 소개 웹페이지
+<br>
+
+### 서비스 소개 웹페이지
 
 <p float="left">
 <img width="30%" src="https://user-images.githubusercontent.com/72238126/145435972-68176c76-78dd-429b-9810-e11d98f73703.png">
@@ -99,3 +113,19 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 <img width="40%" src="https://user-images.githubusercontent.com/72238126/145436658-252c4c52-730a-4224-842c-cfadd66a11fc.png">
 <img width="40%" src="https://user-images.githubusercontent.com/72238126/145436778-221bf761-f4eb-4770-bbd7-d9e2615f0ead.png">
 </p>
+
+<br>
+
+# 팀원
+
+- [mooyoung2309](https://github.com/mooyoung2309)
+- [iamhge](https://github.com/iamhge)
+
+<br>
+
+# 개발 기간
+
+- 2021.06 - 개발 시작
+- 2021.09 - 1차 MVP 배포
+- 2021.11 - 2차 최종 배포
+- 2021.11 - 개발 종료
