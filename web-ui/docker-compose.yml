@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  frontend:
+    build:
+      dockerfile: Dockerfile
+      context: .
+    volumes:
+      - ./:/ssoda
+    ports:
+      - "80:80"
+    stdin_open: true
