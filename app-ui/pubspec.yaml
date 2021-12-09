@@ -1,0 +1,78 @@
+name: hashchecker
+description: Rocketdan hashchecker project.
+
+publish_to: 'none'
+
+version: 2.0.0+9
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  auto_size_text: ^3.0.0-nullsafety.0
+  image_picker: ^0.8.4
+  carousel_slider: ^4.0.0
+  cupertino_icons: ^1.0.3
+  fl_chart: ^0.36.4
+  number_display: ^3.0.0
+  http: ^0.13.3
+  animated_text_kit: ^4.2.1
+  intl: ^0.17.0
+  provider: ^5.0.0
+  qr_flutter: ^4.0.0
+  path_provider: ^2.0.2
+  gallery_saver: ^2.1.2
+  dio: ^4.0.0
+  animations: ^2.0.1
+  flutter_staggered_animations: ^1.0.0
+  modal_bottom_sheet: ^2.0.0
+  syncfusion_flutter_datepicker: ^19.2.56
+  flutter_native_splash: ^1.2.1
+  simple_animations: ^3.1.1
+  introduction_screen: ^2.1.0
+  flutter_web_auth: ^0.3.0
+  flutter_secure_storage: ^4.2.1
+  dio_cookie_manager: ^2.0.0
+  flutter_inappwebview: ^5.3.2
+  webview_flutter: ^2.0.12
+  geocoding: ^2.0.1
+  flash: ^2.0.1
+  shared_preferences: ^2.0.7
+  screenshot: ^1.2.3
+  image_cropper: ^1.4.1
+  future_progress_dialog: ^0.2.0
+  url_launcher: ^6.0.10
+  firebase_messaging: ^10.0.8
+  firebase_core: ^1.7.0
+  flutter_local_notifications: ^9.0.0
+  flutter_otp_text_field: ^1.0.0
+    
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: ^0.9.2
+flutter_icons:
+    android: "launcher_icon"
+    ios: true
+    image_path: "assets/images/icon/icon.png"
+  
+flutter:
+  assets:
+    - assets/images/
+    - assets/images/create_event_step_help/
+    - assets/images/sign_in/
+    - assets/images/splash/
+    - assets/images/event_list/
+    - assets/images/on_boarding/
+    - assets/images/create_store/
+    - assets/images/icon/
+    - assets/images/ranking/
+    - assets/images/sample/
+    - assets/images/easter_egg/
+          
+  uses-material-design: true
