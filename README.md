@@ -118,6 +118,7 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 
 # 팀원
 
+- [yjyoon.dev](https://github.com/yjyoon-dev)
 - [mooyoung2309](https://github.com/mooyoung2309)
 - [iamhge](https://github.com/iamhge)
 
