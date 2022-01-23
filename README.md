@@ -116,17 +116,30 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 
 <br>
 
-# 팀원
-
-- [yjyoon.dev](https://github.com/yjyoon-dev)
-- [mooyoung2309](https://github.com/mooyoung2309)
-- [iamhge](https://github.com/iamhge)
-
-<br>
-
 # 개발 기간
 
 - 2021.06 - 개발 시작
 - 2021.09 - 1차 MVP 배포
 - 2021.11 - 2차 최종 배포
 - 2021.11 - 개발 종료
+
+<br>
+
+# 팀원
+
+### [yjyoon.dev](https://github.com/yjyoon-dev)
+- `flutter`, `dart`, `front-end`, `mobile`, `web`, `ui/ux`
+
+### [mooyoung2309](https://github.com/mooyoung2309)
+-  `django`, `python`, `back-end`, `server`, `crawling`
+
+### [iamhge](https://github.com/iamhge)
+- `spring`, `java`, `back-end`, `server`, `devops`
+
+<br>
+
+# 팀 레포지토리
+
+> https://github.com/SWM-ROCKETDAN/ssoda
+
+---
