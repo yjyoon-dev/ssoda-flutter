@@ -108,7 +108,7 @@ SW 마에스트로 12기 과정에서 로켓단🚀 팀이 개발한 SNS 해시�
 
 <br>
 
-# 특허
+# SW 특허
 <p float="left">
 <img width="40%" src="https://user-images.githubusercontent.com/72238126/145436658-252c4c52-730a-4224-842c-cfadd66a11fc.png">
 <img width="40%" src="https://user-images.githubusercontent.com/72238126/145436778-221bf761-f4eb-4770-bbd7-d9e2615f0ead.png">
